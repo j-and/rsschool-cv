@@ -6,7 +6,7 @@ I have 3+ years expirience in frontend development. Used to work with HTML, SCSS
 Have big experience with Wordpress - working with pages, styles, plugins.
 
 
-* ** Programming languages and technologies ** :   HTML/CSS/JavaScript, Sass, MySQL, JS, оЙгукн
+* **Programming languages and technologies** :   HTML/CSS/JavaScript, Sass, MySQL, JS, оЙгукн
 * ** Operating Systems ** : Windows
 * ** Frameworks and Libraries ** :  jQuery, Bootstrap, Materialize,  React, React-Bootstrap, moment.js, express.js
 * ** Development Environments and Tool **s : IntelliJ IDEA, Eclipse, Chrome DevTools
