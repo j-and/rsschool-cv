@@ -1,4 +1,4 @@
-#Evgenija Ostrovskaja#
+#Evgenija Ostrovskaja
 *skype:catch_the_day
 *mobile+375291197891
 
