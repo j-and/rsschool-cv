@@ -26,6 +26,18 @@ ul {
     padding-right: 10px;
 }
 
+.avatar__panel {
+    position: absolute;
+    right: calc(50% - 512px);
+    top: 100px;
+}
+
+.avatar__panel img {
+    border-radius: 50%;
+    width: 160px;
+    height: auto;
+}
+
 .projects__panel a {
     text-decoration: none;
 }
@@ -52,5 +64,17 @@ ul {
 @media all and (max-width: 1024px) {
     .main {
         width: 80%;
+    }
+
+    .avatar__panel {
+        right: 50px;
+    }
+}
+
+@media all and (max-width: 767px) {
+    .avatar__panel {
+        position: relative;
+        right: auto;
+        top: auto;
     }
 }
