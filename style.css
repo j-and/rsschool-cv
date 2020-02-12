@@ -1,0 +1,56 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+header, footer {
+    background-color: #97BED3;
+    height: 60px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.main {
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+}
+
+.highlighted {
+    color: #40BFEF;
+    font-weight: 600;
+    padding-right: 10px;
+}
+
+.projects__panel a {
+    text-decoration: none;
+}
+
+.projects__panel a:hover {
+    color: #0082ca;
+}
+
+.technologies__panel .highlighted, .contacts__panel .highlighted {
+    color: #0082ca;
+}
+
+.technologies__panel li:before {
+    content: "•";
+    display: inline-block;
+    width: 1em;
+    color: #0082ca;
+}
+
+.education__panel {
+    border-top: 1px solid #0082ca;
+}
+
+@media all and (max-width: 1024px) {
+    .main {
+        width: 80%;
+    }
+}
